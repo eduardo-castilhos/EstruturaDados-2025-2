@@ -1,0 +1,17 @@
+
+RELATORIO
+------------------------------------------------------
+Foram encontradas 1 funcoes pra analisar
+
+Funcao: busca_linear
+Fica entre as linhas 1 e 7
+
+O que tem nessa funcao: Achei 1 loop(s):
+- um for na linha 2 (profundidade 1)
+usa a variavel: i
+depende do tamanho da entrada? sim
+
+Complexidade: O(n)
+
+------------------------------------------------------
+

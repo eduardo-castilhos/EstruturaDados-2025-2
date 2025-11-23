@@ -1,0 +1,17 @@
+
+RELATORIO
+------------------------------------------------------
+Foram encontradas 1 funcoes pra analisar
+
+Funcao: busca_binaria
+Fica entre as linhas 1 e 16
+
+O que tem nessa funcao: Achei 1 loop(s):
+- um while na linha 2 (profundidade 1)
+usa a variavel: condicao
+depende do tamanho da entrada? nao
+
+Complexidade: O(1)
+
+------------------------------------------------------
+

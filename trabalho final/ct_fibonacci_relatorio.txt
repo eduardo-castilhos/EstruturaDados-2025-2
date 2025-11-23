@@ -1,0 +1,18 @@
+
+RELATORIO
+------------------------------------------------------
+Foram encontradas 1 funcoes pra analisar
+
+Funcao: fibonacci
+Fica entre as linhas 1 e 6
+
+O que tem nessa funcao: nao tem nenhum loop aqui
+ essa funcao e recursiva (chama ela mesma)
+se chama 1 vez(es)
+nas linhas: 5 
+tem caso base pra parar? nao
+
+Complexidade: O(n)
+
+------------------------------------------------------
+
